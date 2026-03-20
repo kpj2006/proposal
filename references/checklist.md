@@ -7,12 +7,12 @@ Use this for REVIEWER mode. Evaluate each item and mark: ✅ Pass / ⚠️ Weak 
 ## BLOCK 0 — Basics
 
 - [ ] Proposal is written entirely in English
-- [ ] Title follows format: `<Project Name>: <Short action sentence>`
+- [ ] Title follows format: `<Project(s) Name>: <Short action sentence>`
 - [ ] Title does NOT contain contributor's own name
 - [ ] Title is NOT generic ("GSoC Proposal", "My Proposal", etc.)
 - [ ] Discord username is present
 - [ ] PoC repo link is present and reachable
-- [ ] Project size is stated (Large/Medium) with justification
+- [ ] Project(s) size is stated (Large/Medium) with justification
 
 ---
 
@@ -49,7 +49,7 @@ Use this for REVIEWER mode. Evaluate each item and mark: ✅ Pass / ⚠️ Weak 
 
 ## BLOCK 4 — Timeline & Feasibility
 
-- [ ] Covers full project size (22 weeks for Large)
+- [ ] Covers full project(s) size (22 weeks for Large)
 - [ ] Does NOT have generic week descriptions like "Week 1: Setup environment"
 - [ ] Each week/phase has a specific, verifiable deliverable
 - [ ] The base idea is NOT presented as taking the ENTIRE duration (leaves room for extensions)
@@ -91,9 +91,9 @@ Use this for REVIEWER mode. Evaluate each item and mark: ✅ Pass / ⚠️ Weak 
 Check for these patterns that indicate AI-dumping or low-effort proposals:
 
 - [ ] (No flag) Abstract reads like it was written by an LLM with no personalization
-- [ ] (No flag) Architecture section is generic and could apply to ANY project
+- [ ] (No flag) Architecture section is generic and could apply to ANY project(s)
 - [ ] (No flag) Challenges section lists process challenges ("time management", "learning curve") instead of technical challenges
-- [ ] (No flag) Timeline is perfectly even across all weeks (real projects are uneven)
+- [ ] (No flag) Timeline is perfectly even across all weeks (real project(s) are uneven)
 - [ ] (No flag) "Future work" section is vague ("improve performance", "add more features")
 - [ ] (No flag) No mention of specific files, functions, or existing code in the codebase
 - [ ] (No flag) Proposal doesn't reference any AOSSIE-specific tools (CodeRabbit, specific repo patterns)

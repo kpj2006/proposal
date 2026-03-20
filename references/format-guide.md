@@ -9,8 +9,8 @@ Detailed specs for each section of the AOSSIE GSoC Detailed Description PDF.
 Must appear at the very top of the PDF.
 
 ```
-Title:        <Project Name>: <One sentence describing what you will do>
-Project Size: Large (22 weeks) [or Medium if justified]
+Title:        <Project(s) Name>: <One sentence describing what you will do>
+Project(s) Size: Large (22 weeks) [or Medium if justified]
 Discord:      @your_discord_username
 PoC Repo:     https://github.com/your-username/poc-repo
 ```
@@ -19,10 +19,10 @@ PoC Repo:     https://github.com/your-username/poc-repo
 - Format: `ProjectName: Short action sentence`
 - Example: `Agora Blockchain: Implementation of new voting algorithms and zero-knowledge proofs for greater privacy`
 - Example: `rein: Replacing WebSocket and Nut.js with WebRTC and Koffi for cross-platform screen mirroring`
-- If it's a new project not on the ideas list: `BabyNest: A mobile app for pregnancy using XYZ framework and approach ABC`
+- If it's a new project(s) not on the ideas list: `BabyNest: A mobile app for pregnancy using XYZ framework and approach ABC`
 - ❌ Never: "My Proposal", "GSoC 2026 Application", contributor's name in title
 
-**Project Size:**
+**Project(s) Size:**
 - AOSSIE prefers Large (22 weeks) but contributor must justify it
 - If choosing Medium (12 weeks), explicitly explain why and what fills the remaining time
 - In the AI era, small ideas that could be done in weeks must be padded with genuine extensions
@@ -39,10 +39,10 @@ PoC Repo:     https://github.com/your-username/poc-repo
 - 1 paragraph, 100–200 words
 - Must be specific and technical — NOT a rephrasing of the idea list description
 - Must mention: the problem, your approach, key technologies, expected outcome
-- Must NOT be: a generic intro copied from the project README
+- Must NOT be: a generic intro copied from the project(s) README
 
 **Bad abstract example:**
-> "I want to work on the rein project which is a screen mirroring tool. I will improve it and add new features during GSoC."
+> "I want to work on the rein project(s) which is a screen mirroring tool. I will improve it and add new features during GSoC."
 
 **Good abstract example:**
 > "rein currently uses WebSocket for signaling and Nut.js for input injection, which limits cross-platform reliability and performance. This proposal replaces WebSocket with WebRTC for peer-to-peer screen streaming and Nut.js with Koffi for native input handling, tested across Linux, Windows, and macOS. Beyond this migration, I propose extending rein with adaptive bitrate streaming and a web-based receiver client, enabling use cases beyond the current Electron-only stack. These extensions align with AOSSIE's Communication theme and represent novel contributions beyond the existing ideas list."
@@ -52,7 +52,7 @@ PoC Repo:     https://github.com/your-username/poc-repo
 ## Section 3 — Resume
 
 - Keep it short: 5–10 lines max
-- Relevant items only: CS education, relevant projects, open source contributions
+- Relevant items only: CS education, relevant project(s), open source contributions
 - Do NOT include: high school achievements, unrelated internships, generic skills lists
 - May be excluded if contributor prefers (form says "maybe")
 
@@ -113,7 +113,7 @@ For each challenge, reference which part of your proposed architecture addresses
 ## Section 8 — Packaging & Testing Plan
 
 Must include:
-- How the project will be packaged (e.g., electron-forge, electroBun, npm package)
+- How the project(s) will be packaged (e.g., electron-forge, electroBun, npm package)
 - Testing strategy: unit tests, integration tests, E2E tests
 - Platforms tested: Linux, Windows, macOS (with VM evidence in PoC if applicable)
 - CI/CD: any GitHub Actions or automated test pipelines planned

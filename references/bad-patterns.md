@@ -61,7 +61,7 @@ A diagram with 3 boxes: "Frontend", "Backend", "Database" with arrows between th
 Or: a direct copy of the existing README diagram with no changes.
 
 **Why it fails:**
-Adds no information. Could describe any project. Mentors want to see WHAT YOU WILL BUILD,
+Adds no information. Could describe any project(s). Mentors want to see WHAT YOU WILL BUILD,
 not a generic system overview.
 
 **Fix:**
@@ -80,7 +80,7 @@ existing CodeRabbit sequence diagrams from merged PRs for the right level of det
 > - Communicating effectively with mentors
 
 **Why it fails:**
-These are not technical challenges. They are true for every contributor and every project.
+These are not technical challenges. They are true for every contributor and every project(s).
 They show you haven't thought about the actual engineering difficulty.
 
 **Fix:**
@@ -99,7 +99,7 @@ Every week has exactly 2 tasks of equal size. Weeks are numbered but not differe
 No spikes for hard problems, no buffer weeks, no integration phases.
 
 **Why it fails:**
-Real projects don't work like this. An even timeline signals the contributor generated it
+Real project(s) don't work like this. An even timeline signals the contributor generated it
 without thinking about actual implementation complexity.
 
 **Fix:**
@@ -136,7 +136,7 @@ Merged PRs:
 No PoC link in the header. Or: "I plan to create a PoC during the bonding period."
 
 **Why it fails:**
-The PoC is a hard requirement for many projects. It demonstrates you can execute on the core
+The PoC is a hard requirement for many project(s). It demonstrates you can execute on the core
 technical risk, not just write about it. Deferring it to the bonding period signals avoidance.
 
 **Fix:**
@@ -158,7 +158,7 @@ Mentors read hundreds of these. Boilerplate is instantly recognizable and wastes
 should be used for technical content.
 
 **Fix:**
-Replace every generic sentence with something specific to THIS project, THIS codebase, or
+Replace every generic sentence with something specific to THIS project(s), THIS codebase, or
 THIS contributor's actual experience with AOSSIE.
 
 ---
@@ -174,5 +174,5 @@ AOSSIE admins explicitly require this. It establishes context and lets reviewers
 with mentor feedback.
 
 **Fix:**
-In the PR list and in the intro section, mention: "I worked under mentor @name on project X,
+In the PR list and in the intro section, mention: "I worked under mentor @name on project(s) X,
 where I contributed Y."

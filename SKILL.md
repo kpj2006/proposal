@@ -54,12 +54,12 @@ The AOSSIE GSoC Google Form collects these directly — the skill must focus ONL
 Before writing anything, ask the contributor:
 
 1. **Which AOSSIE project(s) are you proposing for?**
-   (They can apply for more than one project within the same org)
+   (They can apply for more than one project(s) within the same org)
 2. **What is your Discord username?**
 3. **Do you have a PoC (Proof of Concept) repo ready?** If yes, share the link.
 4. **Which mentor(s) did you work under in your previous PRs?**
-5. **What is your proposed project size?** (Preferably Large = 22 weeks)
-6. **List your merged and pending PRs** with links — these are the #1 selection criterion.
+5. **What is your proposed project(s) size?** (Preferably Large = 22 weeks)
+6. **Highlight your most impactful PRs** with links — quality of contributions is prioritized over the number of PRs.
 7. **Have you read the AOSSIE ideas list and identified a base idea + extension themes?**
 
 Do not proceed to drafting until you have answers to at least 1, 2, 4, 5, and 6.
@@ -76,7 +76,7 @@ Before writing, check the proposal strategy against AOSSIE's 2026 AI-era guidanc
 > propose novel ideas Y and Z aligned with theme T for the remaining GSoC time."
 
 **Ask the contributor:** What are your Y and Z extensions? If they don't have any, help them
-brainstorm based on the project's theme before continuing.
+brainstorm based on the project(s)'s theme before continuing.
 
 AOSSIE explicitly states: *"Having your own ideas is one way of standing out from the crowd."*
 Proposals that only implement existing ideas without extensions show lack of innovation.
@@ -85,16 +85,16 @@ Proposals that only implement existing ideas without extensions show lack of inn
 
 Generate the PDF content in this structure (read `references/format-guide.md` for full specs):
 
-1. **Header Block** — Title, project size, Discord @, PoC link
+1. **Header Block** — Title, project(s) size, Discord @, PoC link
 2. **Abstract** — 1 paragraph, specific and technical
 3. **Resume** — Brief, relevant only
 4. **Table of Contents**
-5. **Architecture Diagram** — mid-level, project-specific (see format guide)
+5. **Architecture Diagram** — mid-level, project(s)-specific (see format guide)
 6. **Detailed Architecture Description**
 7. **Challenges & Solutions** (optional but recommended)
 8. **Packaging & Testing Plan**
 9. **Future Expansion** — the Y and Z ideas
-10. **PR Contributions** — all links, with mentor names
+10. **Impactful PR Contributions** — links to high-quality PRs, with mentor names
 
 ### Step 4 — Run Self-Review Before Handing Back
 
@@ -119,7 +119,7 @@ Always check against the bad patterns in `references/bad-patterns.md`.
 ## Hard Rules (Always Enforce)
 
 1. **All proposals must be in English** — flag immediately if the draft has non-English content
-2. **Title format:** `<Project Name>: <One sentence of what you will do>`
+2. **Title format:** `<project(s) Name>: <One sentence of what you will do>`
    - ❌ "My Proposal", "GSoC Proposal", "Proposal for AOSSIE"
    - ❌ Include your own name in the title
    - ✅ "Agora Blockchain: Implementation of new voting algorithms and zero-knowledge proofs"
@@ -135,10 +135,10 @@ Always check against the bad patterns in `references/bad-patterns.md`.
 ## Selection Criteria (Remind contributors of these explicitly)
 
 Ranked by AOSSIE admin importance:
-1. Previous contributions (PRs) to AOSSIE projects — **#1 criterion**
-2. Feasibility of proposed project within proposed timeline
+1. Quality of previous contributions to AOSSIE project(s) — quality and impact of PRs matter more than quantity
+2. Feasibility of proposed project(s) within proposed timeline
 3. Being a team player / willingness to be a long-term contributor
-4. Genuine interest in the project
+4. Genuine interest in the project(s)
 
 Feedback on draft proposals is NOT a selection criterion — not getting mentor feedback on your
 draft does not mean rejection.
