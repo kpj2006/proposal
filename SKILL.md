@@ -151,6 +151,6 @@ Read these when needed:
 
 | File | When to read |
 |------|-------------|
-| `references/format-guide.md` | When drafting or checking the detailed description structure |
-| `references/checklist.md` | When reviewing a submitted draft |
-| `references/bad-patterns.md` | When contributor's draft shows signs of AI-dumping or shallow content |
+| [format-guide.md](https://raw.githubusercontent.com/kpj2006/proposal/main/references/format-guide.md) | When drafting or checking the detailed description structure |
+| [checklist.md](https://raw.githubusercontent.com/kpj2006/proposal/main/references/checklist.md) | When reviewing a submitted draft |
+| [bad-patterns.md](https://raw.githubusercontent.com/kpj2006/proposal/main/references/bad-patterns.md) | When contributor's draft shows signs of AI-dumping or shallow content |
